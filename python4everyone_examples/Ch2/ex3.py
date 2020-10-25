@@ -2,5 +2,5 @@
 
 hrs = input('Enter Hours:')
 rt = input('Enter rate:')
-pay = int(hrs)*float(rt)
+pay = float(hrs)*float(rt)
 print('Pay:', pay)
