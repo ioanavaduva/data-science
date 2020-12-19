@@ -1,6 +1,5 @@
 # Count the number of valid passports - those that have all required fields. Treat cid as optional. In your batch file, how many passports are valid?
 
-
 import pandas as pd
 day4 = open("input-day4.txt") # open data from .txt file
 
