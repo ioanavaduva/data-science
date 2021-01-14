@@ -1,5 +1,5 @@
 # Find the two/three (for second challenge) entries that sum to 2020 and then multiply those two/three numbers together.
-data = open('input.txt')
+data = open('input-day1.txt')
 
 d = list(data)
 print(d[0])
